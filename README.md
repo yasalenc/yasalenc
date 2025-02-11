@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Yasmim📜
 
-➤ Sou estudante de TI no colégio Cotemig e tenho 17 anos 
+➤ Sou estudante de TI no colégio Cotemig 
 
 ➤ HTML| CSS| JavaScript| C#| SQL
 
