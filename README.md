@@ -4,4 +4,4 @@
 
 ➤ HTML| CSS| JavaScript| C#| SQL
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://i.pinimg.com/736x/66/a2/8e/66a28e8b3a5d324483028a852f68be9a.jpg" />
