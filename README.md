@@ -7,4 +7,4 @@
 ## Contato📁
 ➤ LinkedIn: https://www.linkedin.com/in/yasmim-alencastro-611708315
 
-➤ E-mail: yasmimalencastro@gmail.com
+➤ E-mail: yasmimalencastromendes@gmail.com
